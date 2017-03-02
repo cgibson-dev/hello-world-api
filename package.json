@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbennet/hello-world-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbennet/hello-world-api/issues"
+  },
+  "homepage": "https://github.com/hbennet/hello-world-api#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
